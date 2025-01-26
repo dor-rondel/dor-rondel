@@ -1,6 +1,6 @@
-# Hi | שלום | Hola | مرحبا 👋
+# Hi | שלום | Hola | مرحبا | Olá 👋
 
-I'm **Dor**, a human and programming language polyglot 👨‍💻 currently exploring the intersection between 3️⃣🇩 web development and large language models 🤖
+I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently exploring the *intersection between 3️⃣🇩 web development and large language models 🤖*
 
 <h3 align="left">Frequently Using</h3>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>
