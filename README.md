@@ -20,9 +20,11 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <h3 align="left">Tinkering With</h3>  
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="35" height="35"/> </a> 
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.16.0/icon" alt="langchain" width="35" height="35"/> </a> 
-<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlIvvk6-zkkJxYUoBlm7nilKQ00fh4QSR6nJDPq3AkJnDGTs2J079X0w5UoqmSqwkhXc&usqp=CAU" alt="pinecone" width="35" height="35"/> </a> 
 <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" alt="chromadb" width="45" height="35"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="45" height="35"/> </a> 
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s" alt="llamaindex" width="35" height="35"/> </a> 
+<a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnTSM4MHExKgIkfUheyQ04byO32OaUXmQVg&s" alt="ollama" width="35" height="35"/> </a> 
+<a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noreferrer"> <img src="https://d.ibtimes.com/en/full/4607508/gemini-cli.jpg?w=1600&h=1600&q=88&f=9aae260dad2ecd232506e84442da6ca0" alt="gemini cli" width="35" height="35"/> </a> 
 
 
 <h3 align="left">Have Used</h3>
