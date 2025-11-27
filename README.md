@@ -13,14 +13,14 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="35" height="35"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="nodejs" width="35" height="35"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png" alt="aws" width="35" height="35"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*neG4D9C8UcJvNn6bverfIA.png" alt="aws" width="35" height="35"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/vSEuvOntT8Z9q6ehyhYuJX32nbBWS6_8gvPj4xX8bA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RkL0xpbnV4X2xv/Z28uanBn" alt="aws" width="35" height="35"/> </a> 
 
 
 <h3 align="left">Tinkering With</h3>  
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="35" height="35"/> </a> 
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.16.0/icon" alt="langchain" width="35" height="35"/> </a> 
-<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" alt="chromadb" width="45" height="35"/> </a> 
+<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*2crwn9fsu58hVQua-dEa3w.png" alt="chromadb" width="45" height="35"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="45" height="35"/> </a> 
 <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s" alt="llamaindex" width="35" height="35"/> </a> 
 <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnTSM4MHExKgIkfUheyQ04byO32OaUXmQVg&s" alt="ollama" width="35" height="35"/> </a> 
