@@ -24,12 +24,13 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="45" height="35"/> </a> 
 <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s" alt="llamaindex" width="35" height="35"/> </a> 
 <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnTSM4MHExKgIkfUheyQ04byO32OaUXmQVg&s" alt="ollama" width="35" height="35"/> </a> 
-<a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noreferrer"> <img src="https://d.ibtimes.com/en/full/4607508/gemini-cli.jpg?w=1600&h=1600&q=88&f=9aae260dad2ecd232506e84442da6ca0" alt="gemini cli" width="35" height="35"/> </a> 
-
+<a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noreferrer"> <img src="https://d.ibtimes.com/en/full/4607508/gemini-cli.jpg?w=1600&h=1600&q=88&f=9aae260dad2ecd232506e84442da6ca0" alt="gemini cli" width="35" height="35"/> </a>
+<a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/78011399?s=280&v=4" alt="trpc" width="35" height="35"/> </a> 
+<a href="https://langfuse.com/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_7LhoLq/logo/orig" alt="langfuse" width="35" height="35"/> </a> 
 
 <h3 align="left">Have Used</h3>
 <a href="https://angular.dev/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/> </a>
- <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex" width="35" height="35"/> </a>
+<a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex" width="35" height="35"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/> </a>
 <a href="https://mobx.js.org/" target="_blank" rel="noreferrer"> <img src="https://mobx.js.org/img/mobx.png" alt="mobx" width="35" height="35"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <a href="https://expressjs.com/"  target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="35" height="35"/></a>  
@@ -39,9 +40,19 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="35" height="35"/> </a> 
 <a href="https://www.mysql.com/" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRup1AjLs73BTKaUXRedm-RiOMsbfGQ6zucUg&s" alt="sql" width="35" height="35"/> </a> 
 <a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=74402&format=png" alt="mongodb" width="35" height="35"/> </a> 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> </a> <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="rails" width="50" height="35"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>  
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://hashicorp.gallerycdn.vsassets.io/extensions/hashicorp/terraform/2.34.2025012311/1737653333518/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform" width="35" height="35"/> </a> 
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a> 
 
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> </a> 
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="rails" width="50" height="35"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://hashicorp.gallerycdn.vsassets.io/extensions/hashicorp/terraform/2.34.2025012311/1737653333518/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform" width="35" height="35"/> </a> 
+<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLAgwAyLge2RUETPsoKqpzQzJ2rN94bhC7g" alt="astro" width="35" height="35"/> </a> 
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2810941?s=280&v=4" alt="gcp" width="35" height="35"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="c-sharp" width="35" height="35"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="35" height="35"/></a>
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="35" height="35"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.csestack.org/wp-content/uploads/2023/08/java-logo.webp" alt="java" width="35" height="35"/> </a> 
 
 
 ###
