@@ -43,7 +43,7 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a> 
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> </a> 
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="rails" width="50" height="35"/> </a> 
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="rails" width="55" height="35"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://hashicorp.gallerycdn.vsassets.io/extensions/hashicorp/terraform/2.34.2025012311/1737653333518/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform" width="35" height="35"/> </a> 
 <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLAgwAyLge2RUETPsoKqpzQzJ2rN94bhC7g" alt="astro" width="35" height="35"/> </a> 
@@ -53,7 +53,7 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="35" height="35"/></a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="35" height="35"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.csestack.org/wp-content/uploads/2023/08/java-logo.webp" alt="java" width="35" height="35"/> </a> 
-
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="50" height="35"/> </a> 
 
 ###
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt0dWlkeGw2aWZiMWY4NGNpa3A4bGJldGc1MG11cDNzYWpzd3RmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lMWt68HTJtPhRe/giphy.gif" width="500" height="300"/>
