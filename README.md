@@ -22,11 +22,12 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.16.0/icon" alt="langchain" width="35" height="35"/> </a> 
 <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/1*2crwn9fsu58hVQua-dEa3w.png" alt="chromadb" width="45" height="35"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="45" height="35"/> </a> 
-<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s" alt="llamaindex" width="35" height="35"/> </a> 
 <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnTSM4MHExKgIkfUheyQ04byO32OaUXmQVg&s" alt="ollama" width="35" height="35"/> </a> 
 <a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noreferrer"> <img src="https://d.ibtimes.com/en/full/4607508/gemini-cli.jpg?w=1600&h=1600&q=88&f=9aae260dad2ecd232506e84442da6ca0" alt="gemini cli" width="35" height="35"/> </a>
-<a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/78011399?s=280&v=4" alt="trpc" width="35" height="35"/> </a> 
+<a href="https://brand.redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="35" height="35"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/kafka8040.jpg" alt="kafka" width="35" height="35"/> </a> 
 <a href="https://langfuse.com/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_7LhoLq/logo/orig" alt="langfuse" width="35" height="35"/> </a> 
+
 
 <h3 align="left">Have Used</h3>
 <a href="https://angular.dev/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/> </a>
@@ -53,7 +54,14 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="35" height="35"/></a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="35" height="35"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.csestack.org/wp-content/uploads/2023/08/java-logo.webp" alt="java" width="35" height="35"/> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="50" height="35"/> </a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="50" height="35"/> </a>
+
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s" alt="llamaindex" width="35" height="35"/> </a>
+<a href="https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html" target="_blank" rel="noreferrer"> <img src="https://nerdysoft.com/wp-content/uploads/2021/11/java-14-1.svg" alt="java" width="35" height="35"/> </a> 
+<a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/330px-Clojure_logo.svg.png" alt="clojure" width="35" height="35"/> </a>
+<a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/78011399?s=280&v=4" alt="trpc" width="35" height="35"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTBFXt2KHSft2g36B7ll7UsMq3ztJr0GIHg&s" alt="latex" width="35" height="35"/> </a>
+
 
 ###
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt0dWlkeGw2aWZiMWY4NGNpa3A4bGJldGc1MG11cDNzYWpzd3RmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lMWt68HTJtPhRe/giphy.gif" width="500" height="300"/>
