@@ -232,7 +232,7 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 
 <td>
 <a href="https://rubyonrails.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" alt="rails" width="55" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="rails" width="55" height="40"/>
 </a>
 </td>
 
