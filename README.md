@@ -1,4 +1,4 @@
-# Hi | שלום | Hola | مرحبا | Olá 👋
+# Hi | שלום | Hola | مرحبا | Olá | 嗨 👋
 
 I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently exploring the *intersection between 3️⃣🇩 web development and large language models 🤖*
 
