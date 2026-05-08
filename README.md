@@ -268,7 +268,7 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 
 <td>
 <a href="https://azure.microsoft.com/en-us">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1280px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
 </a>
 </td>
 
