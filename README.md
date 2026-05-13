@@ -137,6 +137,12 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <img src="https://pipedream.com/s.v0/app_7LhoLq/logo/orig" alt="langfuse" width="35" height="35"/>
 </a>
 </td>
+
+<td>
+<a href="https://ethers.org/" target="_blank" rel="noreferrer">
+<img src="https://images.seeklogo.com/logo-png/42/1/ethers-logo-png_seeklogo-426721.png" alt="ethersjs" width="35" height="35"/>
+</a>
+</td>
 </tr>
 </table>
 
