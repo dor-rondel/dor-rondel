@@ -73,6 +73,12 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 </td>
 
 <td>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="45" height="35"/>
+</a>
+</td>
+
+<td>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://imgs.search.brave.com/vSEuvOntT8Z9q6ehyhYuJX32nbBWS6_8gvPj4xX8bA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RkL0xpbnV4X2xv/Z28uanBn" alt="linux" width="35" height="35"/>
 </a>
@@ -103,12 +109,6 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 </td>
 
 <td>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="docker" width="45" height="35"/>
-</a>
-</td>
-
-<td>
 <a href="https://ollama.com/" target="_blank" rel="noreferrer">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnTSM4MHExKgIkfUheyQ04byO32OaUXmQVg&s" alt="ollama" width="35" height="35"/>
 </a>
@@ -129,6 +129,12 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <td>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
 <img src="https://logowik.com/content/uploads/images/kafka8040.jpg" alt="kafka" width="35" height="35"/>
+</a>
+</td>
+
+<td>
+<a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/clr-gls/1200/solidity.jpg" alt="solidity" width="35" height="35"/>
 </a>
 </td>
 
