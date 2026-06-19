@@ -115,8 +115,8 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 </td>
 
 <td>
-<a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noreferrer">
-<img src="https://d.ibtimes.com/en/full/4607508/gemini-cli.jpg?w=1600&h=1600&q=88&f=9aae260dad2ecd232506e84442da6ca0" alt="gemini cli" width="35" height="35"/>
+<a href="https://kilo.ai/" target="_blank" rel="noreferrer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaIKa85wsWKupIlhOg-MBR3-ho-m869D9inYeSUt9WtBDVLG0kyC3SUI&s=10" alt="kilo code" width="35" height="35"/>
 </a>
 </td>
 
@@ -325,6 +325,12 @@ I'm **Dor**, a programming and human language **polyglot** 👨‍💻 currently
 <td>
 <a href="https://www.latex-project.org/">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTBFXt2KHSft2g36B7ll7UsMq3ztJr0GIHg&s" alt="latex" width="40" height="40"/>
+</a>
+</td>
+
+<td>
+<a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/" target="_blank" rel="noreferrer">
+<img src="https://d.ibtimes.com/en/full/4607508/gemini-cli.jpg?w=1600&h=1600&q=88&f=9aae260dad2ecd232506e84442da6ca0" alt="gemini cli" width="35" height="35"/>
 </a>
 </td>
 
